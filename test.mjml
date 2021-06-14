@@ -1,0 +1,79 @@
+<<mjml>
+<<mj-head>
+
+    <<mj-attributes>
+
+  <mj-include path="./styles.css" type="css" />
+    </mj-attributes>
+</mj-head>
+    <<mj-body background-color="#F4F4F4">
+        <mj-section background-color="#ffffff" padding="20px 0px">
+            <mj-column>
+                <<mj-image width="100px" padding="10px 25px" src="https://entrepreneurship.wharton.upenn.edu/wp-content/uploads/2017/03/Cotopaxi-logo.jpg" alt="cotopaxi logo" />
+                <<mj-text  align="center" font-size="12px" line-height="22px" padding="10px 25px">
+            <h5 style="letter-spacing:2px;">ABOUT | SHOP SALE | DONATE</h5>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <<mj-section background-color="#ffffff" padding="10px 0">
+            <<mj-column>
+                <<mj-image padding="0" width="600px "src="https://images.unsplash.com/photo-1623524142806-d08a59e73698?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80" alt="welcome to the forest" />
+            </mj-column>
+        </mj-section>
+        <<mj-section background-color="#ffffff" padding="20px 0">
+            <<mj-column>
+                <<mj-image css-class="gallery" padding="0" width="600px "src="https://www.gearhacker.com/wp-content/uploads/2020/07/Cotopaxi-Allpa-Man-Wearing-Bag.jpg" alt="man wearing cotopaxi backpack" />
+            </mj-column>
+            <<mj-column>
+          
+                
+                <<mj-text  css-class="bold_text">
+                    30L DAYPACK
+                </mj-text>
+                <<mj-text css-class="bodyy">
+                    <p>Hell of man braid laborum gochujang aute duis. Exercitation velit freegan prism hoodie quis deserunt, iceland salvia palo santo sunt magna. 3 wolf moon artisan magna, quinoa vexillologist blog ut wayfarers before they sold out activated charcoal. Chicharrones ut marfa four loko nisi raclette gentrify. Cred ramps williamsburg +1 umami ullamco. Magna pork belly est occupy fingerstache. </p>                   
+                    
+                </mj-text>
+                <<mj-text css-class="link">
+                    <p>Shop Now</p>               
+                    
+                </mj-text>
+     
+            </mj-column>
+        </mj-section>
+                <<mj-section background-color="#ffffff" padding="20px 0">
+         <<mj-column>
+          
+                
+                <<mj-text  css-class="bold_text">
+                    30L DAYPACK
+                </mj-text>
+                <<mj-text css-class="bodyy">
+                    <p>Hell of man braid laborum gochujang aute duis. Exercitation velit freegan prism hoodie quis deserunt, iceland salvia palo santo sunt magna. 3 wolf moon artisan magna, quinoa vexillologist blog ut wayfarers before they sold out activated charcoal. Chicharrones ut marfa four loko nisi raclette gentrify. Cred ramps williamsburg +1 umami ullamco. Magna pork belly est occupy fingerstache. </p>                   
+                    
+                </mj-text>
+                <<mj-text css-class="link">
+                    <p>Shop Now</p>               
+                    
+                </mj-text>
+     
+            </mj-column>
+            <<mj-column>
+                <<mj-image css-class="gallery" padding="0" width="600px "src="https://i.pinimg.com/564x/9b/8f/68/9b8f68004054339a2e54755c30a4621d.jpg" alt="man wearing cotopaxi backpack" />
+            </mj-column>
+        </mj-section>
+                <mj-section background-color="#ffffff" padding="20px 0px">
+            <mj-column>
+                <<mj-image  padding="10px 25px" src="https://media.giphy.com/media/LRIBgKO0OXOAciEFvv/giphy.gif" alt="recycle" />
+     
+            </mj-column>
+        </mj-section>
+        <<mj-section padding-top="20px" background-color="#ffffff">
+            <<mj-column>
+                <<mj-button css-class="button" background-color="#fe5741" border-radius="30px" color="#ffffff" font-size="12px" inner-padding="10px 25px" padding="10px 25px" href="http://www.getparade.com">
+                    Learn More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
